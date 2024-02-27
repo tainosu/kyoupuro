@@ -8,3 +8,6 @@
 Icon
 ._*
 .Trashes
+
+# Executables
+*.out
