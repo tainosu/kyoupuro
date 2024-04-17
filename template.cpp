@@ -5,6 +5,7 @@ using namespace std;
 using ll = long long;
 
 using vi = vector<int>;
+using vvi = vector<vi>;
 using vl = vector<ll>;
 
 // rep macro
